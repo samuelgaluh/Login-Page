@@ -25,4 +25,4 @@ Buka file index.html di browser favoritmu.
 
 📷 Screenshot
 
-![Login Page Preview](screenshoot-loginpage.jpg)
+![Login Page Preview](Picture/screenshoot-loginpage.jpg)
