@@ -20,4 +20,9 @@ Tampilan clean dengan efek glassmorphism dan background bertema alam untuk membe
 📦 Cara Menggunakan
 Clone repository ini:
 git clone https://github.com/samuelgaluh/Login-Page.git
+
 Buka file index.html di browser favoritmu.
+
+📷 Screenshot
+
+![Login Page Preview](Picture/screenshot-loginpage.jpg)
