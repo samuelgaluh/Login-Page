@@ -19,18 +19,16 @@ Tampilan clean dengan efek glassmorphism dan background bertema alam untuk membe
 
 📦 Cara Menggunakan
 Clone repository ini:
-git clone https://github.com/samuelgaluh/Login-Page.git
-
-Buka file index.html di browser favoritmu.
-
+- git clone https://github.com/samuelgaluh/Login-Page.git
+- Buka file index.html di browser favoritmu.
 
 Kontak
+
 Jika Anda memiliki pertanyaan atau ingin berkolaborasi, silakan hubungi saya melalui:
 
-Email: [ samuelgaluhdiaspramudyagmail.com ]
-Instagram: [https://www.instagram.com/ssamga_]
-GitHub: [github.com/gamuelgaluh]
-
+- Email: [ samuelgaluhdiaspramudyagmail.com ]
+- Instagram: [https://www.instagram.com/ssamga_]
+- GitHub: [github.com/gamuelgaluh]
 
 📷 Screenshot
 
