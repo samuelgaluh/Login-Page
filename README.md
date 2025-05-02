@@ -22,6 +22,10 @@ Clone repository ini:
 - git clone https://github.com/samuelgaluh/Login-Page.git
 - Buka file index.html di browser favoritmu.
 
+📷 Screenshot
+
+![Login Page Preview](Picture/screenshoot-loginpage.jpg)
+
 Kontak
 
 Jika Anda memiliki pertanyaan atau ingin berkolaborasi, silakan hubungi saya melalui:
@@ -29,7 +33,3 @@ Jika Anda memiliki pertanyaan atau ingin berkolaborasi, silakan hubungi saya mel
 - Email: [ samuelgaluhdiaspramudyagmail.com ]
 - Instagram: [https://www.instagram.com/ssamga_]
 - GitHub: [github.com/gamuelgaluh]
-
-📷 Screenshot
-
-![Login Page Preview](Picture/screenshoot-loginpage.jpg)
